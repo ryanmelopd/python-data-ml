@@ -1,0 +1,11 @@
+produto,categoria,preco,quantidade,vendedor
+Notebook,Eletronicos,3500,2,Ana
+Mouse,Perifericos,120,8,Carlos
+Teclado,Perifericos,250,5,Mariana
+Monitor,Eletronicos,1800,3,Joao
+Headset,Perifericos,350,6,Ana
+Celular,Eletronicos,2200,4,Carlos
+Cadeira,Moveis,900,3,Mariana
+Mesa,Moveis,1200,2,Joao
+Webcam,Perifericos,280,7,Ana
+Impressora,Eletronicos,850,2,Carlos
