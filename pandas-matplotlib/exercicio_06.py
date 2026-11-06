@@ -1,6 +1,6 @@
 import pandas as pd
 
-dataframe = pd.read_csv("01-python-dados/data/dados_jogos.csv")
+dataframe = pd.read_csv("pandas-matplotlib/data/dados_jogos.csv")
 
 print("\nPreço médio de cada gênero:")
 print(dataframe.groupby("genero")["preco"].mean())

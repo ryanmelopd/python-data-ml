@@ -1,7 +1,7 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 
-dataframe = pd.read_csv("01-python-dados/data/dados_vendas.csv")
+dataframe = pd.read_csv("pandas-matplotlib/data/dados_vendas.csv")
 
 dataframe["total_vendas"] = dataframe["preco"] * dataframe["quantidade"]
 

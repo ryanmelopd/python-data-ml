@@ -1,6 +1,6 @@
 import pandas as pd
 
-dataframe = pd.read_csv("01-python-dados/data/dados_funcionarios.csv")
+dataframe = pd.read_csv("pandas-matplotlib/data/dados_funcionarios.csv")
 
 dataframe["salario_anual"] = dataframe["salario"] * 12
 
